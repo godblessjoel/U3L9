@@ -1,0 +1,34 @@
+print ('-'*60)
+print ('Locker Bot:')
+print ()
+password = input ('What is the password?')
+if password == 'Open Seasame'
+	print ('Passowrd is Valid!')
+	print ('Locker Opening')
+else:
+	Print ('Password is invalid...enabling laser defense system,')
+	print ('Pew Pew Pew')
+	print ('Pew Pew Pew')
+	print ('-'*60)
+
+	print ('-'*60)
+print ('Alien Greeter Bot:')
+print ()
+password = input ('What planet are you from?')
+if password == 'mars'
+	print ('Welcome to Earth , please dont kill us!')
+	print ()
+else:
+	Print ('Damn your face is so dirty I thought you were an alien. Anyway...have a good day')
+	print ('-'*60)
+
+	print ('-'*60)
+print ('Bouncer Bot:')
+print ()
+password = input ('How old are you?')
+if password == '17'
+	print (' you may enter!')
+	print ('Door Opening')
+else:
+	Print ('Your too young')
+	print ('-'*60)
